@@ -2,7 +2,7 @@
 
 # 🗂️ HHS Contract Expiration — Classification Governance & Integrity Analysis
 
-**Skills demonstrated:** Data governance · NAICS taxonomy classification · Data Field Seperation · Multi-dimensional integrity analysis · Downstream use case planning · Public sector data · Looker visualization
+**Skills demonstrated:** Data governance · NAICS taxonomy classification · Data Field Separation · Multi-dimensional integrity analysis · Downstream use case planning · Public sector data · Looker visualization
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ The goal was not simply visualization, but to showcase how an Information Integr
 
 Public contract data is available but not automatically useful.  Initially, without intervention and analysis, the raw data tells what contracts existed and the metadata assigned to them. However, that is only surface level. 
 
-When I work with raw data I consider how that can be best utilized down stream with case planning by anticipating who may need what insight along the way.  
+When I work with raw data I consider how that can be best utilized downstream with case planning by anticipating who may need what insight along the way.  
 
 In the case of the HHS contracts expiry file this can be done by:
 

@@ -49,6 +49,8 @@ The following dashboard shows how the NAICS code classification data could be us
 
 <img width="1126" height="797" alt="image" src="https://github.com/user-attachments/assets/ba874b71-529b-40ae-8dda-cfb3252a0739" />
 
+[Alt text: "Bar chart and pie chart showing percentage of total HHS contracts expiring FY2023 through FY2026 by NAICS code. The largest segment is NAICS 541519 at 14.9%, followed by 541611 at 10.2% and 334516 at 7.1%. All other categories combined represent 42.7%."]
+
 This visualization made in Google Looker represents one possible downstream output. The workbook's structure supports additional analysis by agency, state, company, and fiscal year depending on stakeholder needs.
 
 ## ⚙️ Tools Used
